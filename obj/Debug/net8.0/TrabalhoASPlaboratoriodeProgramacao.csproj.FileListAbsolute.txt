@@ -1,0 +1,14 @@
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\bin\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.exe
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\bin\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.deps.json
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\bin\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.runtimeconfig.json
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\bin\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.dll
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\bin\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.pdb
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.AssemblyInfoInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.AssemblyInfo.cs
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.dll
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\refint\TrabalhoASPlaboratoriodeProgramacao.dll
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.pdb
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\TrabalhoASPlaboratoriodeProgramacao.genruntimeconfig.cache
+C:\Users\COMPRAS & LICITAÇÕES\TrabalhoASPlaboratoriodeProgramacao\obj\Debug\net8.0\ref\TrabalhoASPlaboratoriodeProgramacao.dll
